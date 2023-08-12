@@ -1,4 +1,7 @@
-﻿using HarmonyLib;
+﻿// Copyright (c) 2023 EchKode
+// SPDX-License-Identifier: BSD-3-Clause
+
+using HarmonyLib;
 
 using PhantomBrigade.Data;
 using PBDataManagerSave = PhantomBrigade.Data.DataManagerSave;
